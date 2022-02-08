@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Powering Flutter App with Live Weather Web Data
+Flutter App with Live Weather Web Data created during my Flutter Development Bootcamp.
 
 Screens 
 
